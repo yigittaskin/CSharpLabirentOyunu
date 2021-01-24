@@ -1,0 +1,10 @@
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Form1.resources
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Properties.Resources.resources
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.GenerateResource.cache
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\taski\Desktop\C# Projeler\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
